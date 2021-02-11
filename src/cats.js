@@ -31,9 +31,9 @@ export const cats = [
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info',
+    name: 'Sebastian',
+    username: 'Scorpio',
+    email: 'sebastian.pussycat@gmail.com',
   },
   {
     id: 7,
