@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pussycat/static/css/main.0e0c17e6.chunk.css",
+    "main.js": "/pussycat/static/js/main.988e2099.chunk.js",
+    "main.js.map": "/pussycat/static/js/main.988e2099.chunk.js.map",
+    "runtime-main.js": "/pussycat/static/js/runtime-main.ff7cf636.js",
+    "runtime-main.js.map": "/pussycat/static/js/runtime-main.ff7cf636.js.map",
+    "static/css/2.31461e4f.chunk.css": "/pussycat/static/css/2.31461e4f.chunk.css",
+    "static/js/2.014c5bdc.chunk.js": "/pussycat/static/js/2.014c5bdc.chunk.js",
+    "static/js/2.014c5bdc.chunk.js.map": "/pussycat/static/js/2.014c5bdc.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/pussycat/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/pussycat/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/pussycat/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/pussycat/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0e0c17e6.chunk.css.map": "/pussycat/static/css/main.0e0c17e6.chunk.css.map",
+    "static/js/2.014c5bdc.chunk.js.LICENSE.txt": "/pussycat/static/js/2.014c5bdc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pussycat/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff7cf636.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.014c5bdc.chunk.js",
+    "static/css/main.0e0c17e6.chunk.css",
+    "static/js/main.988e2099.chunk.js"
+  ]
+}
